@@ -42,7 +42,7 @@ android {
     signingConfigs {
        // deleted
         }
-    }
+    
 
     buildTypes {
         release {
